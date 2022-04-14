@@ -88,22 +88,6 @@ Send 1
 }
 Return
 
-T::
-Click
-Sleep 25
-Send e
-Sleep 25
-Send 2
-Click, Wheelup 
-Sleep 1
-Click, Wheelup 3
-Send Click
-Sleep 83
-Send e
-Sleep 10
-Send e
-Return
-
 R::
 Click
 Sleep 50
